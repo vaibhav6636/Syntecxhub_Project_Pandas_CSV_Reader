@@ -1,0 +1,9 @@
+OrderID,Customer,Region,Sales,Profit,OrderDate
+1,Amit,West,5000,800,2024-01-10
+2,Riya,North,7000,1200,2024-01-12
+3,John,East,6500,900,2024-01-15
+4,Sneha,South,4000,500,2024-01-18
+5,Rahul,West,7200,1500,2024-01-20
+6,Pooja,North,3000,300,2024-01-22
+7,David,East,8000,2000,2024-01-25
+8,Neha,South,6000,1100,2024-01-28
